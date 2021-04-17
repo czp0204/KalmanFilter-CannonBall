@@ -1,0 +1,2 @@
+# KalmanFilter-CannonBall
+该程序使用OpenCV实现简单的基本卡尔曼滤波器，并没有使用OpenCV的kalman模块，而只使用了OpenCV得矩阵运算。同时有一个模拟预测理想环境下加农炮运动轨迹的小程序用作演示。
